@@ -721,7 +721,7 @@ persistence:
   storageClass:
   annotations: {}
   accessMode: "ReadWriteOnce"
-  size: "8Gi"
+  size: "20Gi"
   volumes:
   #  - name: nothing
   #    emptyDir: {}
